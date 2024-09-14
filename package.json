@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "d3-cloud": "^1.2.7",
+    "react-wordcloud": "^1.2.7",
+    "stopword": "^3.1.1"
+  }
+}
